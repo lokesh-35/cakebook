@@ -1,0 +1,6 @@
+{
+  "name": "Cakebook",
+  "description": "A luxury modern bakery recipe book and bespoke ordering platform. Explore artisan patisserie recipes, build custom sculptural cakes, and order gourmet treats in a sleek dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
